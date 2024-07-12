@@ -148,14 +148,15 @@ Future enhancements for the News App could include:
   
 - **Advanced Analytics**: Incorporating analytics tools to gather insights into user behavior, preferences, and app usage patterns for continuous improvement.
 
-By continually refining its features and embracing emerging technologies, the News App aims to maintain its relevance and usability in the competitive landscape of mobile news applications.
+By continually refining its features and embracing emerging technologies, the News App aims to maintain its relevance and usability in the competitive landscape of mobile news applications
+
+![Screenshot_20240708-184049_News App](https://github.com/user-attachments/assets/c9af5cf9-d789-4091-b61b-832d71b4a0fe)
+![Screenshot_20240708-184058_News App](https://github.com/user-attachments/assets/0c8cdc91-15ae-4e2e-9dfc-64f0848ff027)
+![Screenshot_20240708-183758_News App](https://github.com/user-attachments/assets/45eb80ae-edc2-4cc5-ba6a-151eeccfac2f)
+![Screenshot_20240708-184028_News App](https://github.com/user-attachments/assets/5b9b1b5b-c0ec-4dce-8802-d5221cf3d3c7)
+![Screenshot_20240708-183738_News App](https://github.com/user-attachments/assets/53b6e472-91dc-4418-abd0-58b1529cf00c)
+![Screenshot_20240708-184003_News App](https://github.com/user-attachments/assets/271d8417-a1f3-4715-a4b7-d7a4e3b91d13)
+![Screenshot_20240708-183822_News App](https://github.com/user-attachments/assets/0778c1e7-309e-4f55-968d-e792a2ae9006)
+![Screenshot_20240708-183929_Messages](https://github.com/user-attachments/assets/82e9890a-7c32-46b9-8788-63b71d903e75)
 
 
-![Screenshot_20240708-183738_News App](https://github.com/AmarOsmanovic/NewsApp/assets/62714108/b9f8cacd-461d-4571-a5c6-e3342ac81d57)
-![Screenshot_20240708-183758_News App](https://github.com/AmarOsmanovic/NewsApp/assets/62714108/a24cb05f-903f-4bd6-b3aa-fbb49883d049)
-![Screenshot_20240708-183822_News App](https://github.com/AmarOsmanovic/NewsApp/assets/62714108/0b57a16f-46a0-4e0e-b610-a33225e006d6)
-![Screenshot_20240708-184003_News App](https://github.com/AmarOsmanovic/NewsApp/assets/62714108/efd44f26-3e47-4d2e-984f-1d71e86ba082)
-![Screenshot_20240708-184028_News App](https://github.com/AmarOsmanovic/NewsApp/assets/62714108/09be0f9a-d86b-4dfb-b408-143f1710fef2)
-![Screenshot_20240708-184049_News App](https://github.com/AmarOsmanovic/NewsApp/assets/62714108/fff9a7c4-137c-4760-a759-8f8e9a2bf9f9)
-![Screenshot_20240708-184049_News App](https://github.com/AmarOsmanovic/NewsApp/assets/62714108/aff7f0f1-6ed3-42ad-a22e-90da55ee059d)
-![Screenshot_20240708-183929_Messages](https://github.com/AmarOsmanovic/NewsApp/assets/62714108/accf0250-4867-4171-8b82-22da77aa23f1)
